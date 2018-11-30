@@ -23,6 +23,7 @@
   "dependencies": {
     "istanbul": "0.4.x",
     "istanbul-api": "2.0.6",
+    "istanbul-lib-coverage": "2.0.1",
     "express": "4.x",
     "body-parser": "~1.12.3",
     "archiver": "0.14.x"
